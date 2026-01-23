@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDofEEnr6Z4A75Q8YLF4kWJx6iGxyb_iOg',
-    appId: '1:60101997791:android:25502a7ee2178b6470e56a',
-    messagingSenderId: '60101997791',
-    projectId: 'authenticationapp-4ee1b',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
     storageBucket: 'authenticationapp-4ee1b.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCxA89PJhwZNdiWPaE1I-JfMXUxO0Z7B8A',
-    appId: '1:60101997791:ios:c40ef2fcd8bfcd8b70e56a',
-    messagingSenderId: '60101997791',
-    projectId: 'authenticationapp-4ee1b',
-    storageBucket: 'authenticationapp-4ee1b.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
