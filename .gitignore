@@ -6,6 +6,7 @@
 .pub-cache/
 .pub/
 build/
+lib/firebase_options.dart
 
 # IDEs
 .idea/
