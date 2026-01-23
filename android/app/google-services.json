@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60101997791",
+    "project_id": "authenticationapp-4ee1b",
+    "storage_bucket": "authenticationapp-4ee1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60101997791:android:25502a7ee2178b6470e56a",
+        "android_client_info": {
+          "package_name": "com.wpalgo.librisys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofEEnr6Z4A75Q8YLF4kWJx6iGxyb_iOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+Error -2 retrieving device properties for sdk gphone64 arm64:
+
+Launching lib/main.dart on iPhone 16e in debug mode...
